@@ -1,0 +1,17 @@
+---
+title: "doc figs"
+author: "Angel A. García O'Diana"
+format: html
+---
+
+## Here all figures in document only:
+
+```{r, LIBRARIES}
+library(qgraph)
+```
+
+```{r, FIGURES}
+#png(filename = "img\fig1.png",width = 7680,height = 4320,units="px", type="cairo-png",antialias = "subpixel", pointsize = 13, bg = "white",res = 1500)
+qgraph::qgraph(input = a, labels = c("A","B","C"), theme = "Borkulo")
+#dev.off()
+```
