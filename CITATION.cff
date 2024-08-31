@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "García O'Diana"
+  given-names: "Angel Alfonso"
+  orcid: "https://orcid.org/0000-0002-1533-7760"
+title: "Análisis Comparativo de Técnicas de Estimación en el Análisis de Redes Aplicado a la Investigación en Docencia Universitaria"
+version: 1.0
+doi: 10.5281/zenodo.13623753
+date-released: 2024-08-31
+url: "https://doi.org/10.5281/zenodo.13623753"
