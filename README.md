@@ -1,6 +1,12 @@
 # Master-Thesis <a href="https://zenodo.org/doi/10.5281/zenodo.13623752"><img src="https://zenodo.org/badge/831244996.svg" alt="DOI"></a>
-The repository have all supplementary materials for the Master's thesis submitted to the Universidad César Vallejo, as part of the University Teaching Master Program. Please feel free to use any of these files as part of your research project, only give me the correspondent attributions in your citations.
-
+The repository have all supplementary materials for the Master's thesis submitted to the Universidad César Vallejo, as part of the University Teaching Master Program. Please feel free to use any of these files as part of your research project, only give me the correspondent attributions in your citations. <br>
+<br>
+Dissertation slides can be found on quarto repository: <br>
+<a href="https://agarciao10.quarto.pub/master-thesis-slides/"><img src="https://quarto.org/quarto.png" alt="QUARTO"></a>
+<br>
+If you use this slides in your work, please cite it using the following metadata: <br>
+<a href="https://doi.org/10.5281/zenodo.13623785"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13623785.svg" alt="DOI"></a>
+<br>
 <h1> Análisis Comparativo de Técnicas de Estimación en el Análisis de Redes Aplicado a la Investigación en Docencia Universitaria <h1/> 
 <h2> <i> Comparative Analysis of Estimation Techniques in Network Analysis Applied to Educative Research </i> </h2>
 <br>
