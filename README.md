@@ -1,5 +1,4 @@
-# Master-Thesis
- 
+# Master-Thesis <a href="https://zenodo.org/doi/10.5281/zenodo.13623752"><img src="https://zenodo.org/badge/831244996.svg" alt="DOI"></a>
 The repository have all supplementary materials for the Master's thesis submitted to the Universidad César Vallejo, as part of the University Teaching Master Program. Please feel free to use any of these files as part of your research project, only give me the correspondent attributions in your citations.
 
 <h1> Análisis Comparativo de Técnicas de Estimación en el Análisis de Redes Aplicado a la Investigación en Docencia Universitaria <h1/> 
